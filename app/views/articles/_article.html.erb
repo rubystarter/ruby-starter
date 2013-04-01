@@ -1,0 +1,40 @@
+
+
+
+<table id="articles" class="table table-bordered table-striped table-hover">
+    <thead>
+        <tr>
+            <th>Publish Date</th>
+            <th>Title</th>
+            <th>Brief</th>
+        </tr>
+    </thead>
+    <tbody>
+        <% searchArticles.each do |article| %>
+            <tr>
+                <td><%= formatted_date_time(article.created_at) %></td>
+                <td><%= link_to article.title, article_path(article) %></td>
+                <td><%= sanitize(article.content, :tags=>[])[0..50] %></td>
+            </tr>
+        <% end %>        
+
+    </tbody>
+</table>
+
+<script type="text/javascript">
+$('#articles').dataTable({
+  "sDom": "<'row'<'span6'l><'span6'f>r>t<'row'<'span5'i><'span4'p>>",
+  "sPaginationType": "bootstrap",
+        "bPaginate": true,
+        "bLengthChange": false,
+        "bFilter": false,
+        "bAutoWidth": true,
+        "oLanguage": {
+            "sZeroRecords": "No Article Found",
+            "sInfo": "Showing _START_ to _END_ of _TOTAL_ articles",
+            "sInfoEmpty": "",
+        },
+    "aaSorting": [[ 0, "desc" ]]
+        
+}); 
+</script>

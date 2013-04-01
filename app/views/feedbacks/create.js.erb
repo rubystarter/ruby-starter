@@ -1,0 +1,7 @@
+<% if @feedback.errors.empty? %>
+  $("#feedbacks").append("<%= j render @feedback %>");
+  $("#feedback_notes").val("");
+  $("#feedback_notes").focus();
+<% else %>
+  alert("there was errors with your reply.");
+<% end %>

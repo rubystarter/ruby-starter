@@ -1,0 +1,1650 @@
+Connecting to database specified by database.yml
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/new" for 127.0.0.1 at 2013-03-14 18:28:15 -0700
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+Started GET "/new" for 127.0.0.1 at 2013-03-14 18:31:53 -0700
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started POST "/create" for 127.0.0.1 at 2013-03-14 18:31:54 -0700
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/topics/new" for 127.0.0.1 at 2013-03-14 18:34:52 -0700
+Processing by TopicsController#new as HTML
+Completed 500 Internal Server Error in 5ms
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started POST "/create" for 127.0.0.1 at 2013-03-14 18:34:52 -0700
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/topics/new" for 127.0.0.1 at 2013-03-14 18:41:48 -0700
+Processing by TopicsController#new as HTML
+Completed 500 Internal Server Error in 5ms
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started POST "/create" for 127.0.0.1 at 2013-03-14 18:41:48 -0700
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/topics/new" for 127.0.0.1 at 2013-03-14 19:04:29 -0700
+Processing by TopicsController#new as HTML
+Completed 500 Internal Server Error in 5ms
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started POST "/create" for 127.0.0.1 at 2013-03-14 19:04:29 -0700
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/topics/new" for 127.0.0.1 at 2013-03-14 19:06:08 -0700
+Processing by TopicsController#new as HTML
+Completed 500 Internal Server Error in 9ms
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started POST "/create" for 127.0.0.1 at 2013-03-14 19:06:08 -0700
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/topics/new" for 127.0.0.1 at 2013-03-14 19:08:19 -0700
+Processing by TopicsController#new as HTML
+Completed 500 Internal Server Error in 5ms
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started POST "/create" for 127.0.0.1 at 2013-03-14 19:08:19 -0700
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+Started GET "/topics" for 127.0.0.1 at 2013-03-14 19:08:19 -0700
+Processing by TopicsController#index as HTML
+Completed 500 Internal Server Error in 1ms
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (2.0ms)[0m  [1mbegin transaction[0m
+Started GET "/topics" for 127.0.0.1 at 2013-03-14 19:09:36 -0700
+Processing by TopicsController#index as HTML
+  [1m[35mTopic Load (0.0ms)[0m  SELECT "topics".* FROM "topics" 
+  Rendered topics/index.html.erb within layouts/application (17.0ms)
+Completed 200 OK in 137ms (Views: 120.0ms | ActiveRecord: 11.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Started GET "/topics/new" for 127.0.0.1 at 2013-03-14 19:09:36 -0700
+Processing by TopicsController#new as HTML
+  Rendered topics/_form.html.erb (25.0ms)
+Completed 200 OK in 70ms (Views: 54.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (1.0ms)[0m  [1mSELECT COUNT(*) FROM "topics" [0m
+Started POST "/create" for 127.0.0.1 at 2013-03-14 19:09:37 -0700
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+Started POST "/create" for 127.0.0.1 at 2013-03-14 19:09:37 -0700
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (2.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/topics/new" for 127.0.0.1 at 2013-03-14 19:10:15 -0700
+Processing by TopicsController#new as HTML
+  Rendered topics/_form.html.erb (25.0ms)
+Completed 200 OK in 200ms (Views: 171.0ms | ActiveRecord: 10.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+Started POST "/create" for 127.0.0.1 at 2013-03-14 19:10:15 -0700
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SELECT COUNT(*) FROM "topics" 
+Started POST "/create" for 127.0.0.1 at 2013-03-14 19:10:15 -0700
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+Started GET "/topics" for 127.0.0.1 at 2013-03-14 19:11:31 -0700
+Processing by TopicsController#index as HTML
+  [1m[35mTopic Load (1.0ms)[0m  SELECT "topics".* FROM "topics" 
+  Rendered topics/index.html.erb within layouts/application (17.0ms)
+Completed 200 OK in 142ms (Views: 126.0ms | ActiveRecord: 12.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Started GET "/new" for 127.0.0.1 at 2013-03-14 19:11:32 -0700
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSELECT COUNT(*) FROM "topics" [0m
+Started POST "/create" for 127.0.0.1 at 2013-03-14 19:11:32 -0700
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started POST "/create" for 127.0.0.1 at 2013-03-14 19:11:32 -0700
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+Started GET "/topics" for 127.0.0.1 at 2013-03-14 19:12:07 -0700
+Processing by TopicsController#index as HTML
+  [1m[35mTopic Load (0.0ms)[0m  SELECT "topics".* FROM "topics" 
+  Rendered topics/index.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 55ms (Views: 49.0ms | ActiveRecord: 3.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Started GET "/topics/new" for 127.0.0.1 at 2013-03-14 19:12:07 -0700
+Processing by TopicsController#new as HTML
+  Rendered topics/_form.html.erb (10.0ms)
+Completed 200 OK in 26ms (Views: 20.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Started POST "/create" for 127.0.0.1 at 2013-03-14 19:12:07 -0700
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (1.0ms)[0m  [1mSELECT COUNT(*) FROM "topics" [0m
+Started POST "/create" for 127.0.0.1 at 2013-03-14 19:12:07 -0700
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (2.0ms)[0m  [1mbegin transaction[0m
+Started GET "/topics/new" for 127.0.0.1 at 2013-03-14 19:13:14 -0700
+Processing by TopicsController#new as HTML
+  Rendered topics/_form.html.erb (25.0ms)
+  Rendered topics/new.html.erb within layouts/application (58.0ms)
+Completed 200 OK in 193ms (Views: 163.0ms | ActiveRecord: 11.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (1.0ms)[0m  SELECT COUNT(*) FROM "topics" 
+Started POST "/topics/create" for 127.0.0.1 at 2013-03-14 19:13:14 -0700
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Started POST "/topics/create" for 127.0.0.1 at 2013-03-14 19:13:14 -0700
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (1.0ms)[0m  begin transaction
+Started GET "/topics" for 127.0.0.1 at 2013-03-14 19:13:14 -0700
+Processing by TopicsController#index as HTML
+  [1m[36mTopic Load (1.0ms)[0m  [1mSELECT "topics".* FROM "topics" [0m
+Completed 200 OK in 14ms (Views: 10.0ms | ActiveRecord: 1.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+Started GET "/topics" for 127.0.0.1 at 2013-03-14 19:15:07 -0700
+Processing by TopicsController#index as HTML
+  [1m[35mTopic Load (0.0ms)[0m  SELECT "topics".* FROM "topics" 
+  Rendered topics/index.html.erb within layouts/application (17.0ms)
+Completed 200 OK in 137ms (Views: 120.0ms | ActiveRecord: 9.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Started GET "/topics/new" for 127.0.0.1 at 2013-03-14 19:15:08 -0700
+Processing by TopicsController#new as HTML
+  Rendered topics/_form.html.erb (26.0ms)
+Completed 200 OK in 72ms (Views: 54.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSELECT COUNT(*) FROM "topics" [0m
+Started POST "/create" for 127.0.0.1 at 2013-03-14 19:15:08 -0700
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started POST "/create" for 127.0.0.1 at 2013-03-14 19:15:08 -0700
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/topics/new" for 127.0.0.1 at 2013-03-14 19:16:05 -0700
+Processing by TopicsController#new as HTML
+  Rendered topics/_form.html.erb (9.0ms)
+Completed 200 OK in 76ms (Views: 65.0ms | ActiveRecord: 4.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started POST "/topics" for 127.0.0.1 at 2013-03-14 19:16:05 -0700
+Processing by TopicsController#create as HTML
+  Parameters: {"topic"=>{"name"=>"", "description"=>""}}
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mTopic Exists (1.0ms)[0m  [1mSELECT 1 AS one FROM "topics" WHERE "topics"."name" = '' LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  Rendered topics/_form.html.erb (7.0ms)
+Completed 200 OK in 169ms (Views: 13.0ms | ActiveRecord: 1.0ms)
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (1.0ms)[0m  begin transaction
+  [1m[36m (1.0ms)[0m  [1mSELECT COUNT(*) FROM "topics" [0m
+Started POST "/topics" for 127.0.0.1 at 2013-03-14 19:16:05 -0700
+Processing by TopicsController#create as HTML
+  Parameters: {"topic"=>{"name"=>"", "desription"=>"test"}}
+Completed 500 Internal Server Error in 2ms
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/topics" for 127.0.0.1 at 2013-03-14 19:16:05 -0700
+Processing by TopicsController#index as HTML
+  [1m[35mTopic Load (1.0ms)[0m  SELECT "topics".* FROM "topics" 
+Completed 200 OK in 14ms (Views: 10.0ms | ActiveRecord: 1.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/topics/new" for 127.0.0.1 at 2013-03-14 19:20:53 -0700
+Processing by TopicsController#new as HTML
+  Rendered topics/_form.html.erb (10.0ms)
+  Rendered topics/new.html.erb within layouts/application (23.0ms)
+Completed 200 OK in 77ms (Views: 66.0ms | ActiveRecord: 3.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (1.0ms)[0m  SELECT COUNT(*) FROM "topics" 
+Started POST "/topics" for 127.0.0.1 at 2013-03-14 19:20:53 -0700
+Processing by TopicsController#create as HTML
+  Parameters: {"topic"=>{"name"=>"", "desription"=>"test"}}
+Completed 500 Internal Server Error in 1ms
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Started POST "/topics" for 127.0.0.1 at 2013-03-14 19:20:53 -0700
+Processing by TopicsController#create as HTML
+  Parameters: {"topic"=>{"name"=>"", "description"=>""}}
+  [1m[36m (1.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mTopic Exists (0.0ms)[0m  SELECT 1 AS one FROM "topics" WHERE "topics"."name" = '' LIMIT 1
+  [1m[36m (0.0ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  Rendered topics/_form.html.erb (3.0ms)
+Completed 200 OK in 41ms (Views: 5.0ms | ActiveRecord: 1.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/topics" for 127.0.0.1 at 2013-03-14 19:20:53 -0700
+Processing by TopicsController#index as HTML
+  [1m[35mTopic Load (0.0ms)[0m  SELECT "topics".* FROM "topics" 
+Completed 200 OK in 6ms (Views: 4.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/topics" for 127.0.0.1 at 2013-03-14 19:23:06 -0700
+Processing by TopicsController#index as HTML
+  [1m[35mTopic Load (0.0ms)[0m  SELECT "topics".* FROM "topics" 
+  Rendered topics/index.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 55ms (Views: 48.0ms | ActiveRecord: 5.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Started GET "/topics/new" for 127.0.0.1 at 2013-03-14 19:23:06 -0700
+Processing by TopicsController#new as HTML
+  Rendered topics/_form.html.erb (10.0ms)
+Completed 200 OK in 26ms (Views: 20.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSELECT COUNT(*) FROM "topics" [0m
+Started POST "/topics" for 127.0.0.1 at 2013-03-14 19:23:06 -0700
+Processing by TopicsController#create as HTML
+  Parameters: {"topic"=>{"name"=>"", "desription"=>"test"}}
+Completed 500 Internal Server Error in 1ms
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started POST "/topics" for 127.0.0.1 at 2013-03-14 19:23:06 -0700
+Processing by TopicsController#create as HTML
+  Parameters: {"topic"=>{"name"=>"", "description"=>""}}
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mTopic Exists (0.0ms)[0m  [1mSELECT 1 AS one FROM "topics" WHERE "topics"."name" = '' LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  Rendered topics/_form.html.erb (2.0ms)
+Completed 200 OK in 41ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/topics/new" for 127.0.0.1 at 2013-03-14 19:25:39 -0700
+Processing by TopicsController#new as HTML
+  Rendered topics/_form.html.erb (9.0ms)
+  Rendered topics/new.html.erb within layouts/application (23.0ms)
+Completed 200 OK in 77ms (Views: 66.0ms | ActiveRecord: 3.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (1.0ms)[0m  SELECT COUNT(*) FROM "topics" 
+Started POST "/topics" for 127.0.0.1 at 2013-03-14 19:25:39 -0700
+Processing by TopicsController#create as HTML
+  Parameters: {"topic"=>{"name"=>"", "desription"=>"test"}}
+Completed 500 Internal Server Error in 1ms
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Started POST "/topics" for 127.0.0.1 at 2013-03-14 19:25:39 -0700
+Processing by TopicsController#create as HTML
+  Parameters: {"topic"=>{"name"=>"", "description"=>""}}
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mTopic Exists (0.0ms)[0m  SELECT 1 AS one FROM "topics" WHERE "topics"."name" = '' LIMIT 1
+  [1m[36m (0.0ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  Rendered topics/_form.html.erb (3.0ms)
+Completed 200 OK in 40ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mTopic Exists (0.0ms)[0m  [1mSELECT 1 AS one FROM "topics" WHERE "topics"."name" = 'Test topic' LIMIT 1[0m
+  [1m[35mSQL (5.0ms)[0m  INSERT INTO "topics" ("created_at", "description", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Fri, 15 Mar 2013 02:25:39 UTC +00:00], ["description", "Test description"], ["name", "Test topic"], ["updated_at", Fri, 15 Mar 2013 02:25:39 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Started GET "/edit?id=1" for 127.0.0.1 at 2013-03-14 19:25:39 -0700
+  [1m[35m (2.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/topics" for 127.0.0.1 at 2013-03-14 19:25:39 -0700
+Processing by TopicsController#index as HTML
+  [1m[35mTopic Load (0.0ms)[0m  SELECT "topics".* FROM "topics" 
+Completed 200 OK in 5ms (Views: 4.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mTopic Exists (0.0ms)[0m  [1mSELECT 1 AS one FROM "topics" WHERE "topics"."name" = 'Test topic' LIMIT 1[0m
+  [1m[35mSQL (12.0ms)[0m  INSERT INTO "topics" ("created_at", "description", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Fri, 15 Mar 2013 02:26:30 UTC +00:00], ["description", "Test description"], ["name", "Test topic"], ["updated_at", Fri, 15 Mar 2013 02:26:30 UTC +00:00]]
+  [1m[36m (1.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Started GET "/topicsedit?id=1" for 127.0.0.1 at 2013-03-14 19:26:30 -0700
+  [1m[35m (7.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/topics/new" for 127.0.0.1 at 2013-03-14 19:26:30 -0700
+Processing by TopicsController#new as HTML
+  Rendered topics/_form.html.erb (26.0ms)
+Completed 200 OK in 129ms (Views: 128.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (1.0ms)[0m  SELECT COUNT(*) FROM "topics" 
+Started POST "/topics" for 127.0.0.1 at 2013-03-14 19:26:30 -0700
+Processing by TopicsController#create as HTML
+  Parameters: {"topic"=>{"name"=>"", "desription"=>"test"}}
+Completed 500 Internal Server Error in 2ms
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Started POST "/topics" for 127.0.0.1 at 2013-03-14 19:26:30 -0700
+Processing by TopicsController#create as HTML
+  Parameters: {"topic"=>{"name"=>"", "description"=>""}}
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mTopic Exists (1.0ms)[0m  SELECT 1 AS one FROM "topics" WHERE "topics"."name" = '' LIMIT 1
+  [1m[36m (0.0ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  Rendered topics/_form.html.erb (7.0ms)
+Completed 200 OK in 24ms (Views: 14.0ms | ActiveRecord: 1.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/topics" for 127.0.0.1 at 2013-03-14 19:26:30 -0700
+Processing by TopicsController#index as HTML
+  [1m[35mTopic Load (1.0ms)[0m  SELECT "topics".* FROM "topics" 
+Completed 200 OK in 14ms (Views: 11.0ms | ActiveRecord: 1.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+  [1m[36m (2.0ms)[0m  [1mbegin transaction[0m
+Started GET "/topics" for 127.0.0.1 at 2013-03-14 19:31:15 -0700
+Processing by TopicsController#index as HTML
+  [1m[35mTopic Load (0.0ms)[0m  SELECT "topics".* FROM "topics" 
+  Rendered topics/index.html.erb within layouts/application (16.0ms)
+Completed 200 OK in 136ms (Views: 119.0ms | ActiveRecord: 10.0ms)
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mTopic Exists (1.0ms)[0m  SELECT 1 AS one FROM "topics" WHERE "topics"."name" = 'Test topic' LIMIT 1
+  [1m[36mSQL (11.0ms)[0m  [1mINSERT INTO "topics" ("created_at", "description", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Fri, 15 Mar 2013 02:31:15 UTC +00:00], ["description", "Test description"], ["name", "Test topic"], ["updated_at", Fri, 15 Mar 2013 02:31:15 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Started GET "/topics?id=1" for 127.0.0.1 at 2013-03-14 19:31:15 -0700
+Processing by TopicsController#index as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mTopic Load (0.0ms)[0m  [1mSELECT "topics".* FROM "topics" [0m
+Completed 200 OK in 13ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (2.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/topics/new" for 127.0.0.1 at 2013-03-14 19:31:15 -0700
+Processing by TopicsController#new as HTML
+  Rendered topics/_form.html.erb (23.0ms)
+Completed 200 OK in 55ms (Views: 53.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (1.0ms)[0m  SELECT COUNT(*) FROM "topics" 
+Started POST "/topics" for 127.0.0.1 at 2013-03-14 19:31:15 -0700
+Processing by TopicsController#create as HTML
+  Parameters: {"topic"=>{"name"=>"", "desription"=>"test"}}
+Completed 500 Internal Server Error in 2ms
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Started POST "/topics" for 127.0.0.1 at 2013-03-14 19:31:15 -0700
+Processing by TopicsController#create as HTML
+  Parameters: {"topic"=>{"name"=>"", "description"=>""}}
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mTopic Exists (0.0ms)[0m  SELECT 1 AS one FROM "topics" WHERE "topics"."name" = '' LIMIT 1
+  [1m[36m (0.0ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  Rendered topics/_form.html.erb (9.0ms)
+Completed 200 OK in 26ms (Views: 15.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mTopic Exists (0.0ms)[0m  [1mSELECT 1 AS one FROM "topics" WHERE "topics"."name" = 'Test topic' LIMIT 1[0m
+  [1m[35mSQL (4.0ms)[0m  INSERT INTO "topics" ("created_at", "description", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Fri, 15 Mar 2013 02:33:57 UTC +00:00], ["description", "Test description"], ["name", "Test topic"], ["updated_at", Fri, 15 Mar 2013 02:33:57 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Started GET "/topicsedit?id=1" for 127.0.0.1 at 2013-03-14 19:33:57 -0700
+  [1m[35m (3.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/topics" for 127.0.0.1 at 2013-03-14 19:33:57 -0700
+Processing by TopicsController#index as HTML
+  [1m[35mTopic Load (1.0ms)[0m  SELECT "topics".* FROM "topics" 
+Completed 200 OK in 31ms (Views: 30.0ms | ActiveRecord: 1.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Started GET "/topics/new" for 127.0.0.1 at 2013-03-14 19:33:57 -0700
+Processing by TopicsController#new as HTML
+  Rendered topics/_form.html.erb (9.0ms)
+Completed 200 OK in 21ms (Views: 21.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSELECT COUNT(*) FROM "topics" [0m
+Started POST "/topics" for 127.0.0.1 at 2013-03-14 19:33:57 -0700
+Processing by TopicsController#create as HTML
+  Parameters: {"topic"=>{"name"=>"", "desription"=>"test"}}
+Completed 500 Internal Server Error in 1ms
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started POST "/topics" for 127.0.0.1 at 2013-03-14 19:33:57 -0700
+Processing by TopicsController#create as HTML
+  Parameters: {"topic"=>{"name"=>"", "description"=>""}}
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mTopic Exists (1.0ms)[0m  [1mSELECT 1 AS one FROM "topics" WHERE "topics"."name" = '' LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  Rendered topics/_form.html.erb (3.0ms)
+Completed 200 OK in 10ms (Views: 5.0ms | ActiveRecord: 1.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mTopic Exists (1.0ms)[0m  [1mSELECT 1 AS one FROM "topics" WHERE "topics"."name" = 'Test topic' LIMIT 1[0m
+  [1m[35mSQL (11.0ms)[0m  INSERT INTO "topics" ("created_at", "description", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Fri, 15 Mar 2013 02:35:30 UTC +00:00], ["description", "Test description"], ["name", "Test topic"], ["updated_at", Fri, 15 Mar 2013 02:35:30 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Started GET "/topics?id=1" for 127.0.0.1 at 2013-03-14 19:35:30 -0700
+Processing by TopicsController#index as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mTopic Load (0.0ms)[0m  SELECT "topics".* FROM "topics" 
+  Rendered topics/index.html.erb within layouts/application (21.0ms)
+Completed 200 OK in 89ms (Views: 86.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (2.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (1.0ms)[0m  begin transaction
+Started GET "/topics/new" for 127.0.0.1 at 2013-03-14 19:35:30 -0700
+Processing by TopicsController#new as HTML
+  Rendered topics/_form.html.erb (24.0ms)
+Completed 200 OK in 55ms (Views: 53.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (1.0ms)[0m  [1mSELECT COUNT(*) FROM "topics" [0m
+Started POST "/topics" for 127.0.0.1 at 2013-03-14 19:35:31 -0700
+Processing by TopicsController#create as HTML
+  Parameters: {"topic"=>{"name"=>"", "desription"=>"test"}}
+Completed 500 Internal Server Error in 2ms
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started POST "/topics" for 127.0.0.1 at 2013-03-14 19:35:31 -0700
+Processing by TopicsController#create as HTML
+  Parameters: {"topic"=>{"name"=>"", "description"=>""}}
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mTopic Exists (0.0ms)[0m  [1mSELECT 1 AS one FROM "topics" WHERE "topics"."name" = '' LIMIT 1[0m
+  [1m[35m (1.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  Rendered topics/_form.html.erb (8.0ms)
+Completed 200 OK in 27ms (Views: 14.0ms | ActiveRecord: 1.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Started GET "/topics" for 127.0.0.1 at 2013-03-14 19:35:31 -0700
+Processing by TopicsController#index as HTML
+  [1m[36mTopic Load (1.0ms)[0m  [1mSELECT "topics".* FROM "topics" [0m
+Completed 200 OK in 7ms (Views: 4.0ms | ActiveRecord: 1.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (1.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mTopic Exists (0.0ms)[0m  [1mSELECT 1 AS one FROM "topics" WHERE "topics"."name" = 'Test topic' LIMIT 1[0m
+  [1m[35mSQL (5.0ms)[0m  INSERT INTO "topics" ("created_at", "description", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Fri, 15 Mar 2013 02:37:04 UTC +00:00], ["description", "Test description"], ["name", "Test topic"], ["updated_at", Fri, 15 Mar 2013 02:37:04 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Started GET "/edit?id=1" for 127.0.0.1 at 2013-03-14 19:37:04 -0700
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/topics/new" for 127.0.0.1 at 2013-03-14 19:37:04 -0700
+Processing by TopicsController#new as HTML
+  Rendered topics/_form.html.erb (9.0ms)
+Completed 200 OK in 46ms (Views: 46.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (1.0ms)[0m  SELECT COUNT(*) FROM "topics" 
+Started POST "/create" for 127.0.0.1 at 2013-03-14 19:37:05 -0700
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (1.0ms)[0m  begin transaction
+Started POST "/create" for 127.0.0.1 at 2013-03-14 19:37:05 -0700
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Started GET "/topics" for 127.0.0.1 at 2013-03-14 19:37:05 -0700
+Processing by TopicsController#index as HTML
+  [1m[36mTopic Load (0.0ms)[0m  [1mSELECT "topics".* FROM "topics" [0m
+Completed 200 OK in 5ms (Views: 4.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/topics/new" for 127.0.0.1 at 2013-03-14 19:38:59 -0700
+Processing by TopicsController#new as HTML
+  Rendered topics/_form.html.erb (10.0ms)
+  Rendered topics/new.html.erb within layouts/application (23.0ms)
+Completed 200 OK in 77ms (Views: 65.0ms | ActiveRecord: 5.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started POST "/topics" for 127.0.0.1 at 2013-03-14 19:38:59 -0700
+Processing by TopicsController#create as HTML
+  Parameters: {"topic"=>{"name"=>"", "description"=>""}}
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mTopic Exists (0.0ms)[0m  [1mSELECT 1 AS one FROM "topics" WHERE "topics"."name" = '' LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  Rendered topics/_form.html.erb (3.0ms)
+Completed 200 OK in 41ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSELECT COUNT(*) FROM "topics" [0m
+Started POST "/topics" for 127.0.0.1 at 2013-03-14 19:38:59 -0700
+Processing by TopicsController#create as HTML
+  Parameters: {"topic"=>{"name"=>"", "desription"=>"test"}}
+Completed 500 Internal Server Error in 1ms
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/topics" for 127.0.0.1 at 2013-03-14 19:38:59 -0700
+Processing by TopicsController#index as HTML
+  [1m[35mTopic Load (1.0ms)[0m  SELECT "topics".* FROM "topics" 
+Completed 200 OK in 5ms (Views: 4.0ms | ActiveRecord: 1.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mTopic Exists (0.0ms)[0m  SELECT 1 AS one FROM "topics" WHERE "topics"."name" = 'Test topic' LIMIT 1
+  [1m[36mSQL (4.0ms)[0m  [1mINSERT INTO "topics" ("created_at", "description", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Fri, 15 Mar 2013 02:38:59 UTC +00:00], ["description", "Test description"], ["name", "Test topic"], ["updated_at", Fri, 15 Mar 2013 02:38:59 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Started GET "/topic?id=1" for 127.0.0.1 at 2013-03-14 19:38:59 -0700
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+  [1m[36m (2.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/feedbacks" for 127.0.0.1 at 2013-03-14 19:48:22 -0700
+Processing by FeedbacksController#index as HTML
+Completed 500 Internal Server Error in 3ms
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/topics" for 127.0.0.1 at 2013-03-14 19:48:22 -0700
+Processing by TopicsController#index as HTML
+  [1m[35mTopic Load (0.0ms)[0m  SELECT "topics".* FROM "topics" 
+Completed 200 OK in 64ms (Views: 57.0ms | ActiveRecord: 1.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Started GET "/topics/new" for 127.0.0.1 at 2013-03-14 19:48:22 -0700
+Processing by TopicsController#new as HTML
+  Rendered topics/_form.html.erb (25.0ms)
+Completed 200 OK in 116ms (Views: 53.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSELECT COUNT(*) FROM "topics" [0m
+Started POST "/topics" for 127.0.0.1 at 2013-03-14 19:48:22 -0700
+Processing by TopicsController#create as HTML
+  Parameters: {"topic"=>{"name"=>"", "desription"=>"test"}}
+Completed 500 Internal Server Error in 1ms
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started POST "/topics" for 127.0.0.1 at 2013-03-14 19:48:22 -0700
+Processing by TopicsController#create as HTML
+  Parameters: {"topic"=>{"name"=>"", "description"=>""}}
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mTopic Exists (0.0ms)[0m  [1mSELECT 1 AS one FROM "topics" WHERE "topics"."name" = '' LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  Rendered topics/_form.html.erb (7.0ms)
+Completed 200 OK in 106ms (Views: 13.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mTopic Exists (1.0ms)[0m  SELECT 1 AS one FROM "topics" WHERE "topics"."name" = 'Test topic' LIMIT 1
+  [1m[36mSQL (11.0ms)[0m  [1mINSERT INTO "topics" ("created_at", "description", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Fri, 15 Mar 2013 02:48:22 UTC +00:00], ["description", "Test description"], ["name", "Test topic"], ["updated_at", Fri, 15 Mar 2013 02:48:22 UTC +00:00]]
+  [1m[35m (1.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Started GET "/topic?id=1" for 127.0.0.1 at 2013-03-14 19:48:22 -0700
+  [1m[36m (2.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (1.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (1.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by FeedbacksController#create as HTML
+  Parameters: {"feedback"=>{"notes"=>"MyText"}}
+Completed 500 Internal Server Error in 3ms
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by FeedbacksController#create as HTML
+  Parameters: {"feedback"=>{"notes"=>"MyText"}}
+Completed 500 Internal Server Error in 1ms
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by FeedbacksController#create as HTML
+  Parameters: {"feedback"=>{"notes"=>"invalid value"}}
+Completed 500 Internal Server Error in 1ms
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by FeedbacksController#create as HTML
+  Parameters: {"feedback"=>{"notes"=>"invalid value"}}
+Completed 500 Internal Server Error in 4ms
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (1.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by FeedbacksController#new as HTML
+Completed 500 Internal Server Error in 2ms
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/topics" for 127.0.0.1 at 2013-03-14 19:50:22 -0700
+Processing by TopicsController#index as HTML
+  [1m[35mTopic Load (0.0ms)[0m  SELECT "topics".* FROM "topics" 
+Completed 200 OK in 64ms (Views: 57.0ms | ActiveRecord: 1.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (1.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mTopic Exists (0.0ms)[0m  SELECT 1 AS one FROM "topics" WHERE "topics"."name" = 'Test topic' LIMIT 1
+  [1m[36mSQL (12.0ms)[0m  [1mINSERT INTO "topics" ("created_at", "description", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Fri, 15 Mar 2013 02:50:22 UTC +00:00], ["description", "Test description"], ["name", "Test topic"], ["updated_at", Fri, 15 Mar 2013 02:50:22 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Started GET "/topic?id=1" for 127.0.0.1 at 2013-03-14 19:50:22 -0700
+  [1m[36m (2.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Started GET "/topics/new" for 127.0.0.1 at 2013-03-14 19:50:22 -0700
+Processing by TopicsController#new as HTML
+  Rendered topics/_form.html.erb (27.0ms)
+Completed 200 OK in 59ms (Views: 55.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Started POST "/topics" for 127.0.0.1 at 2013-03-14 19:50:22 -0700
+Processing by TopicsController#create as HTML
+  Parameters: {"topic"=>{"name"=>"", "description"=>""}}
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mTopic Exists (1.0ms)[0m  SELECT 1 AS one FROM "topics" WHERE "topics"."name" = '' LIMIT 1
+  [1m[36m (0.0ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  Rendered topics/_form.html.erb (13.0ms)
+Completed 200 OK in 31ms (Views: 19.0ms | ActiveRecord: 1.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (1.0ms)[0m  SELECT COUNT(*) FROM "topics" 
+Started POST "/topics" for 127.0.0.1 at 2013-03-14 19:50:22 -0700
+Processing by TopicsController#create as HTML
+  Parameters: {"topic"=>{"name"=>"", "desription"=>"test"}}
+Completed 500 Internal Server Error in 1ms
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Started GET "/feedbacks" for 127.0.0.1 at 2013-03-14 19:50:22 -0700
+Processing by FeedbacksController#index as HTML
+Completed 500 Internal Server Error in 2ms
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (1.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by FeedbacksController#new as HTML
+Completed 500 Internal Server Error in 2ms
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (1.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by FeedbacksController#create as HTML
+  Parameters: {"feedback"=>{"notes"=>"invalid value"}}
+Completed 500 Internal Server Error in 2ms
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by FeedbacksController#create as HTML
+  Parameters: {"feedback"=>{"notes"=>"invalid value"}}
+Completed 500 Internal Server Error in 1ms
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by FeedbacksController#create as HTML
+  Parameters: {"feedback"=>{"notes"=>"MyText"}}
+Completed 500 Internal Server Error in 0ms
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by FeedbacksController#create as HTML
+  Parameters: {"feedback"=>{"notes"=>"MyText"}}
+Completed 500 Internal Server Error in 0ms
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (1.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mTopic Exists (1.0ms)[0m  [1mSELECT 1 AS one FROM "topics" WHERE "topics"."name" = 'Test topic' LIMIT 1[0m
+  [1m[35mSQL (13.0ms)[0m  INSERT INTO "topics" ("created_at", "description", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Fri, 15 Mar 2013 02:51:41 UTC +00:00], ["description", "Test description"], ["name", "Test topic"], ["updated_at", Fri, 15 Mar 2013 02:51:41 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Started GET "/topic?id=1" for 127.0.0.1 at 2013-03-14 19:51:41 -0700
+  [1m[35m (3.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/topics" for 127.0.0.1 at 2013-03-14 19:51:41 -0700
+Processing by TopicsController#index as HTML
+  [1m[35mTopic Load (0.0ms)[0m  SELECT "topics".* FROM "topics" 
+Completed 200 OK in 59ms (Views: 56.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (1.0ms)[0m  begin transaction
+Started GET "/topics/new" for 127.0.0.1 at 2013-03-14 19:51:41 -0700
+Processing by TopicsController#new as HTML
+  Rendered topics/_form.html.erb (13.0ms)
+Completed 200 OK in 30ms (Views: 29.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (1.0ms)[0m  [1mSELECT COUNT(*) FROM "topics" [0m
+Started POST "/topics" for 127.0.0.1 at 2013-03-14 19:51:41 -0700
+Processing by TopicsController#create as HTML
+  Parameters: {"topic"=>{"name"=>"", "desription"=>"test"}}
+Completed 500 Internal Server Error in 1ms
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started POST "/topics" for 127.0.0.1 at 2013-03-14 19:51:41 -0700
+Processing by TopicsController#create as HTML
+  Parameters: {"topic"=>{"name"=>"", "description"=>""}}
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mTopic Exists (0.0ms)[0m  [1mSELECT 1 AS one FROM "topics" WHERE "topics"."name" = '' LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  Rendered topics/_form.html.erb (4.0ms)
+Completed 200 OK in 13ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by FeedbacksController#new as HTML
+Completed 500 Internal Server Error in 1ms
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by FeedbacksController#create as HTML
+  Parameters: {"feedback"=>{"notes"=>"MyText"}}
+Completed 500 Internal Server Error in 1ms
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by FeedbacksController#create as HTML
+  Parameters: {"feedback"=>{"notes"=>"MyText"}}
+Completed 500 Internal Server Error in 1ms
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by FeedbacksController#create as HTML
+  Parameters: {"feedback"=>{"notes"=>"invalid value"}}
+Completed 500 Internal Server Error in 0ms
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by FeedbacksController#create as HTML
+  Parameters: {"feedback"=>{"notes"=>"invalid value"}}
+Completed 500 Internal Server Error in 0ms
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by FeedbacksController#new as HTML
+Completed 500 Internal Server Error in 1ms
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by FeedbacksController#create as HTML
+  Parameters: {"feedback"=>{"notes"=>"MyText"}}
+Completed 500 Internal Server Error in 1ms
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by FeedbacksController#create as HTML
+  Parameters: {"feedback"=>{"notes"=>"MyText"}}
+Completed 500 Internal Server Error in 0ms
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by FeedbacksController#create as HTML
+  Parameters: {"feedback"=>{"notes"=>"invalid value"}}
+Completed 500 Internal Server Error in 0ms
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by FeedbacksController#create as HTML
+  Parameters: {"feedback"=>{"notes"=>"invalid value"}}
+Completed 500 Internal Server Error in 1ms
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Started GET "/feedbacks" for 127.0.0.1 at 2013-03-14 19:51:41 -0700
+Processing by FeedbacksController#index as HTML
+Completed 500 Internal Server Error in 2ms
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (1.0ms)[0m  begin transaction
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (1.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+Processing by FeedbacksController#create as HTML
+  Parameters: {"feedback"=>{"notes"=>"MyText"}}
+Completed 500 Internal Server Error in 1ms
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by FeedbacksController#create as HTML
+  Parameters: {"feedback"=>{"notes"=>"MyText"}}
+Completed 500 Internal Server Error in 1ms
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by FeedbacksController#create as HTML
+  Parameters: {"feedback"=>{"notes"=>"invalid value"}}
+Completed 500 Internal Server Error in 1ms
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by FeedbacksController#create as HTML
+  Parameters: {"feedback"=>{"notes"=>"invalid value"}}
+Completed 500 Internal Server Error in 1ms
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by FeedbacksController#new as HTML
+Completed 500 Internal Server Error in 2ms
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (2.0ms)[0m  [1mbegin transaction[0m
+Processing by FeedbacksController#create as HTML
+  Parameters: {"feedback"=>{"notes"=>"MyText"}}
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (30.0ms)[0m  [1mINSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)[0m  [["author", nil], ["created_at", Fri, 15 Mar 2013 03:03:14 UTC +00:00], ["notes", "MyText"], ["updated_at", Fri, 15 Mar 2013 03:03:14 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/feedbacks/1
+Completed 302 Found in 72ms (ActiveRecord: 40.0ms)
+  [1m[36mFeedback Load (0.0ms)[0m  [1mSELECT "feedbacks".* FROM "feedbacks" ORDER BY "feedbacks"."id" DESC LIMIT 1[0m
+  [1m[35m (3.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+Processing by FeedbacksController#create as HTML
+  Parameters: {"feedback"=>{"notes"=>"MyText"}}
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (4.0ms)[0m  [1mINSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)[0m  [["author", nil], ["created_at", Fri, 15 Mar 2013 03:03:14 UTC +00:00], ["notes", "MyText"], ["updated_at", Fri, 15 Mar 2013 03:03:14 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/feedbacks/1
+Completed 302 Found in 11ms (ActiveRecord: 4.0ms)
+  [1m[36m (3.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSELECT COUNT(*) FROM "feedbacks" [0m
+Processing by FeedbacksController#create as HTML
+  Parameters: {"feedback"=>{"notes"=>"MyText"}}
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (6.0ms)[0m  [1mINSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)[0m  [["author", nil], ["created_at", Fri, 15 Mar 2013 03:03:15 UTC +00:00], ["notes", "MyText"], ["updated_at", Fri, 15 Mar 2013 03:03:15 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/feedbacks/1
+Completed 302 Found in 12ms (ActiveRecord: 6.0ms)
+  [1m[36m (0.0ms)[0m  [1mSELECT COUNT(*) FROM "feedbacks" [0m
+  [1m[35m (7.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by FeedbacksController#create as HTML
+  Parameters: {"feedback"=>{"notes"=>"invalid value"}}
+Completed 200 OK in 62ms (Views: 60.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by FeedbacksController#create as HTML
+  Parameters: {"feedback"=>{"notes"=>"invalid value"}}
+Completed 200 OK in 4ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (5.0ms)[0m  [1mINSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)[0m  [["author", nil], ["created_at", Fri, 15 Mar 2013 03:03:15 UTC +00:00], ["notes", "MyText"], ["updated_at", Fri, 15 Mar 2013 03:03:15 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by FeedbacksController#update as HTML
+  Parameters: {"feedback"=>{"notes"=>"MyText"}, "id"=>"1"}
+  [1m[36mFeedback Load (1.0ms)[0m  [1mSELECT "feedbacks".* FROM "feedbacks" WHERE "feedbacks"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/feedbacks/1
+Completed 302 Found in 9ms (ActiveRecord: 1.0ms)
+  [1m[35m (2.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (1.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (3.0ms)[0m  [1mINSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)[0m  [["author", nil], ["created_at", Fri, 15 Mar 2013 03:03:15 UTC +00:00], ["notes", "MyText"], ["updated_at", Fri, 15 Mar 2013 03:03:15 UTC +00:00]]
+  [1m[35m (2.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by FeedbacksController#update as HTML
+  Parameters: {"feedback"=>{"notes"=>"MyText"}, "id"=>"1"}
+  [1m[36mFeedback Load (0.0ms)[0m  [1mSELECT "feedbacks".* FROM "feedbacks" WHERE "feedbacks"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/feedbacks/1
+Completed 302 Found in 5ms (ActiveRecord: 0.0ms)
+  [1m[35m (2.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (6.0ms)[0m  [1mINSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)[0m  [["author", nil], ["created_at", Fri, 15 Mar 2013 03:03:15 UTC +00:00], ["notes", "MyText"], ["updated_at", Fri, 15 Mar 2013 03:03:15 UTC +00:00]]
+  [1m[35m (1.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by FeedbacksController#update as HTML
+  Parameters: {"feedback"=>{"notes"=>"MyText"}, "id"=>"1"}
+  [1m[36mFeedback Load (0.0ms)[0m  [1mSELECT "feedbacks".* FROM "feedbacks" WHERE "feedbacks"."id" = ? LIMIT 1[0m  [["id", "1"]]
+Completed 200 OK in 10ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (2.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (4.0ms)[0m  [1mINSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)[0m  [["author", nil], ["created_at", Fri, 15 Mar 2013 03:03:15 UTC +00:00], ["notes", "MyText"], ["updated_at", Fri, 15 Mar 2013 03:03:15 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by FeedbacksController#update as HTML
+  Parameters: {"feedback"=>{"notes"=>"invalid value"}, "id"=>"1"}
+  [1m[36mFeedback Load (0.0ms)[0m  [1mSELECT "feedbacks".* FROM "feedbacks" WHERE "feedbacks"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+Completed 200 OK in 9ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (5.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (9.0ms)[0m  [1mINSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)[0m  [["author", nil], ["created_at", Fri, 15 Mar 2013 03:03:15 UTC +00:00], ["notes", "MyText"], ["updated_at", Fri, 15 Mar 2013 03:03:15 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by FeedbacksController#update as HTML
+  Parameters: {"feedback"=>{"notes"=>"invalid value"}, "id"=>"1"}
+  [1m[36mFeedback Load (0.0ms)[0m  [1mSELECT "feedbacks".* FROM "feedbacks" WHERE "feedbacks"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (1.0ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+Completed 200 OK in 9ms (Views: 2.0ms | ActiveRecord: 1.0ms)
+  [1m[35m (5.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (4.0ms)[0m  [1mINSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)[0m  [["author", nil], ["created_at", Fri, 15 Mar 2013 03:03:15 UTC +00:00], ["notes", "MyText"], ["updated_at", Fri, 15 Mar 2013 03:03:15 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by FeedbacksController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mFeedback Load (1.0ms)[0m  [1mSELECT "feedbacks".* FROM "feedbacks" WHERE "feedbacks"."id" = ? LIMIT 1[0m  [["id", "1"]]
+Completed 200 OK in 11ms (Views: 7.0ms | ActiveRecord: 1.0ms)
+  [1m[35m (3.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by FeedbacksController#new as HTML
+Completed 200 OK in 4ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (5.0ms)[0m  [1mINSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)[0m  [["author", nil], ["created_at", Fri, 15 Mar 2013 03:03:15 UTC +00:00], ["notes", "MyText"], ["updated_at", Fri, 15 Mar 2013 03:03:15 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSELECT COUNT(*) FROM "feedbacks" [0m
+Processing by FeedbacksController#destroy as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mFeedback Load (0.0ms)[0m  SELECT "feedbacks".* FROM "feedbacks" WHERE "feedbacks"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (2.0ms)[0m  DELETE FROM "feedbacks" WHERE "feedbacks"."id" = ?  [["id", 1]]
+  [1m[36m (1.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/feedbacks
+Completed 302 Found in 10ms (ActiveRecord: 3.0ms)
+  [1m[35m (0.0ms)[0m  SELECT COUNT(*) FROM "feedbacks" 
+  [1m[36m (3.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (1.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (5.0ms)[0m  INSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)  [["author", nil], ["created_at", Fri, 15 Mar 2013 03:03:15 UTC +00:00], ["notes", "MyText"], ["updated_at", Fri, 15 Mar 2013 03:03:15 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by FeedbacksController#destroy as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mFeedback Load (0.0ms)[0m  SELECT "feedbacks".* FROM "feedbacks" WHERE "feedbacks"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (2.0ms)[0m  DELETE FROM "feedbacks" WHERE "feedbacks"."id" = ?  [["id", 1]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/feedbacks
+Completed 302 Found in 8ms (ActiveRecord: 2.0ms)
+  [1m[35m (2.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (6.0ms)[0m  [1mINSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)[0m  [["author", nil], ["created_at", Fri, 15 Mar 2013 03:03:15 UTC +00:00], ["notes", "MyText"], ["updated_at", Fri, 15 Mar 2013 03:03:15 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by FeedbacksController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mFeedback Load (0.0ms)[0m  [1mSELECT "feedbacks".* FROM "feedbacks" WHERE "feedbacks"."id" = ? LIMIT 1[0m  [["id", "1"]]
+Completed 200 OK in 5ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (4.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (4.0ms)[0m  [1mINSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)[0m  [["author", nil], ["created_at", Fri, 15 Mar 2013 03:03:15 UTC +00:00], ["notes", "MyText"], ["updated_at", Fri, 15 Mar 2013 03:03:15 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by FeedbacksController#index as HTML
+  [1m[36mFeedback Load (0.0ms)[0m  [1mSELECT "feedbacks".* FROM "feedbacks" [0m
+Completed 200 OK in 42ms (Views: 39.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (5.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  Rendered feedbacks/_form.html.erb (25.0ms)
+  Rendered feedbacks/edit.html.erb (62.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (33.0ms)[0m  [1mINSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)[0m  [["author", nil], ["created_at", Fri, 15 Mar 2013 03:03:53 UTC +00:00], ["notes", "MyText"], ["updated_at", Fri, 15 Mar 2013 03:03:53 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSELECT COUNT(*) FROM "feedbacks" [0m
+Processing by FeedbacksController#destroy as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mFeedback Load (1.0ms)[0m  SELECT "feedbacks".* FROM "feedbacks" WHERE "feedbacks"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (2.0ms)[0m  DELETE FROM "feedbacks" WHERE "feedbacks"."id" = ?  [["id", 1]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/feedbacks
+Completed 302 Found in 13ms (ActiveRecord: 3.0ms)
+  [1m[35m (0.0ms)[0m  SELECT COUNT(*) FROM "feedbacks" 
+  [1m[36m (6.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (1.0ms)[0m  begin transaction
+  [1m[36m (1.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (3.0ms)[0m  INSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)  [["author", nil], ["created_at", Fri, 15 Mar 2013 03:03:53 UTC +00:00], ["notes", "MyText"], ["updated_at", Fri, 15 Mar 2013 03:03:53 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by FeedbacksController#destroy as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mFeedback Load (1.0ms)[0m  SELECT "feedbacks".* FROM "feedbacks" WHERE "feedbacks"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (2.0ms)[0m  DELETE FROM "feedbacks" WHERE "feedbacks"."id" = ?  [["id", 1]]
+  [1m[36m (1.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/feedbacks
+Completed 302 Found in 8ms (ActiveRecord: 4.0ms)
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (9.0ms)[0m  [1mINSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)[0m  [["author", nil], ["created_at", Fri, 15 Mar 2013 03:03:53 UTC +00:00], ["notes", "MyText"], ["updated_at", Fri, 15 Mar 2013 03:03:53 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by FeedbacksController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mFeedback Load (0.0ms)[0m  [1mSELECT "feedbacks".* FROM "feedbacks" WHERE "feedbacks"."id" = ? LIMIT 1[0m  [["id", "1"]]
+Completed 200 OK in 21ms (Views: 17.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (3.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (4.0ms)[0m  [1mINSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)[0m  [["author", nil], ["created_at", Fri, 15 Mar 2013 03:03:53 UTC +00:00], ["notes", "MyText"], ["updated_at", Fri, 15 Mar 2013 03:03:53 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by FeedbacksController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mFeedback Load (0.0ms)[0m  [1mSELECT "feedbacks".* FROM "feedbacks" WHERE "feedbacks"."id" = ? LIMIT 1[0m  [["id", "1"]]
+Completed 200 OK in 11ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (2.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (5.0ms)[0m  [1mINSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)[0m  [["author", nil], ["created_at", Fri, 15 Mar 2013 03:03:53 UTC +00:00], ["notes", "MyText"], ["updated_at", Fri, 15 Mar 2013 03:03:53 UTC +00:00]]
+  [1m[35m (1.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by FeedbacksController#update as HTML
+  Parameters: {"feedback"=>{"notes"=>"MyText"}, "id"=>"1"}
+  [1m[36mFeedback Load (0.0ms)[0m  [1mSELECT "feedbacks".* FROM "feedbacks" WHERE "feedbacks"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (1.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/feedbacks/1
+Completed 302 Found in 9ms (ActiveRecord: 1.0ms)
+  [1m[35m (3.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (2.0ms)[0m  [1mINSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)[0m  [["author", nil], ["created_at", Fri, 15 Mar 2013 03:03:53 UTC +00:00], ["notes", "MyText"], ["updated_at", Fri, 15 Mar 2013 03:03:53 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by FeedbacksController#update as HTML
+  Parameters: {"feedback"=>{"notes"=>"MyText"}, "id"=>"1"}
+  [1m[36mFeedback Load (0.0ms)[0m  [1mSELECT "feedbacks".* FROM "feedbacks" WHERE "feedbacks"."id" = ? LIMIT 1[0m  [["id", "1"]]
+Completed 200 OK in 4ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (2.0ms)[0m  [1mINSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)[0m  [["author", nil], ["created_at", Fri, 15 Mar 2013 03:03:53 UTC +00:00], ["notes", "MyText"], ["updated_at", Fri, 15 Mar 2013 03:03:53 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by FeedbacksController#update as HTML
+  Parameters: {"feedback"=>{"notes"=>"MyText"}, "id"=>"1"}
+  [1m[36mFeedback Load (0.0ms)[0m  [1mSELECT "feedbacks".* FROM "feedbacks" WHERE "feedbacks"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/feedbacks/1
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms)
+  [1m[35m (4.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (2.0ms)[0m  [1mINSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)[0m  [["author", nil], ["created_at", Fri, 15 Mar 2013 03:03:53 UTC +00:00], ["notes", "MyText"], ["updated_at", Fri, 15 Mar 2013 03:03:53 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by FeedbacksController#update as HTML
+  Parameters: {"feedback"=>{"notes"=>"invalid value"}, "id"=>"1"}
+  [1m[36mFeedback Load (1.0ms)[0m  [1mSELECT "feedbacks".* FROM "feedbacks" WHERE "feedbacks"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+Completed 200 OK in 4ms (Views: 1.0ms | ActiveRecord: 1.0ms)
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (2.0ms)[0m  [1mINSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)[0m  [["author", nil], ["created_at", Fri, 15 Mar 2013 03:03:53 UTC +00:00], ["notes", "MyText"], ["updated_at", Fri, 15 Mar 2013 03:03:53 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by FeedbacksController#update as HTML
+  Parameters: {"feedback"=>{"notes"=>"invalid value"}, "id"=>"1"}
+  [1m[36mFeedback Load (0.0ms)[0m  [1mSELECT "feedbacks".* FROM "feedbacks" WHERE "feedbacks"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+Completed 200 OK in 6ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by FeedbacksController#create as HTML
+  Parameters: {"feedback"=>{"notes"=>"MyText"}}
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (2.0ms)[0m  [1mINSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)[0m  [["author", nil], ["created_at", Fri, 15 Mar 2013 03:03:53 UTC +00:00], ["notes", "MyText"], ["updated_at", Fri, 15 Mar 2013 03:03:53 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/feedbacks/1
+Completed 302 Found in 6ms (ActiveRecord: 2.0ms)
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSELECT COUNT(*) FROM "feedbacks" [0m
+Processing by FeedbacksController#create as HTML
+  Parameters: {"feedback"=>{"notes"=>"MyText"}}
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (1.0ms)[0m  [1mINSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)[0m  [["author", nil], ["created_at", Fri, 15 Mar 2013 03:03:53 UTC +00:00], ["notes", "MyText"], ["updated_at", Fri, 15 Mar 2013 03:03:53 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/feedbacks/1
+Completed 302 Found in 5ms (ActiveRecord: 1.0ms)
+  [1m[36m (1.0ms)[0m  [1mSELECT COUNT(*) FROM "feedbacks" [0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by FeedbacksController#create as HTML
+  Parameters: {"feedback"=>{"notes"=>"MyText"}}
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (1.0ms)[0m  [1mINSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)[0m  [["author", nil], ["created_at", Fri, 15 Mar 2013 03:03:53 UTC +00:00], ["notes", "MyText"], ["updated_at", Fri, 15 Mar 2013 03:03:53 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/feedbacks/1
+Completed 302 Found in 5ms (ActiveRecord: 1.0ms)
+  [1m[36mFeedback Load (0.0ms)[0m  [1mSELECT "feedbacks".* FROM "feedbacks" ORDER BY "feedbacks"."id" DESC LIMIT 1[0m
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by FeedbacksController#create as HTML
+  Parameters: {"feedback"=>{"notes"=>"invalid value"}}
+Completed 200 OK in 7ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+Processing by FeedbacksController#create as HTML
+  Parameters: {"feedback"=>{"notes"=>"invalid value"}}
+Completed 200 OK in 2ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (1.0ms)[0m  [1mINSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)[0m  [["author", nil], ["created_at", Fri, 15 Mar 2013 03:03:53 UTC +00:00], ["notes", "MyText"], ["updated_at", Fri, 15 Mar 2013 03:03:53 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by FeedbacksController#index as HTML
+  [1m[36mFeedback Load (0.0ms)[0m  [1mSELECT "feedbacks".* FROM "feedbacks" [0m
+Completed 200 OK in 6ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by FeedbacksController#new as HTML
+Completed 200 OK in 2ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  Rendered feedbacks/_form.html.erb (3.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/topics/new" for 127.0.0.1 at 2013-03-14 20:03:53 -0700
+Processing by TopicsController#new as HTML
+  Rendered topics/_form.html.erb (6.0ms)
+Completed 200 OK in 30ms (Views: 20.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SELECT COUNT(*) FROM "topics" 
+Started POST "/topics" for 127.0.0.1 at 2013-03-14 20:03:54 -0700
+Processing by TopicsController#create as HTML
+  Parameters: {"topic"=>{"name"=>"", "desription"=>"test"}}
+Completed 500 Internal Server Error in 1ms
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Started POST "/topics" for 127.0.0.1 at 2013-03-14 20:03:54 -0700
+Processing by TopicsController#create as HTML
+  Parameters: {"topic"=>{"name"=>"", "description"=>""}}
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mTopic Exists (1.0ms)[0m  SELECT 1 AS one FROM "topics" WHERE "topics"."name" = '' LIMIT 1
+  [1m[36m (0.0ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  Rendered topics/_form.html.erb (4.0ms)
+Completed 200 OK in 48ms (Views: 7.0ms | ActiveRecord: 1.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/topics" for 127.0.0.1 at 2013-03-14 20:03:54 -0700
+Processing by TopicsController#index as HTML
+  [1m[35mTopic Load (1.0ms)[0m  SELECT "topics".* FROM "topics" 
+Completed 200 OK in 6ms (Views: 5.0ms | ActiveRecord: 1.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mTopic Exists (0.0ms)[0m  SELECT 1 AS one FROM "topics" WHERE "topics"."name" = 'Test topic' LIMIT 1
+  [1m[36mSQL (2.0ms)[0m  [1mINSERT INTO "topics" ("created_at", "description", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Fri, 15 Mar 2013 03:03:54 UTC +00:00], ["description", "Test description"], ["name", "Test topic"], ["updated_at", Fri, 15 Mar 2013 03:03:54 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Started GET "/topic?id=1" for 127.0.0.1 at 2013-03-14 20:03:54 -0700
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Started GET "/feedbacks" for 127.0.0.1 at 2013-03-14 20:03:54 -0700
+Processing by FeedbacksController#index as HTML
+  [1m[36mFeedback Load (1.0ms)[0m  [1mSELECT "feedbacks".* FROM "feedbacks" [0m
+Completed 200 OK in 6ms (Views: 4.0ms | ActiveRecord: 1.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+Started GET "/topics" for 127.0.0.1 at 2013-03-14 20:10:51 -0700
+Processing by TopicsController#index as HTML
+  [1m[35mTopic Load (0.0ms)[0m  SELECT "topics".* FROM "topics" 
+  Rendered topics/index.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 67ms (Views: 56.0ms | ActiveRecord: 5.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mTopic Exists (0.0ms)[0m  SELECT 1 AS one FROM "topics" WHERE "topics"."name" = 'Test topic' LIMIT 1
+  [1m[36mSQL (8.0ms)[0m  [1mINSERT INTO "topics" ("created_at", "description", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Fri, 15 Mar 2013 03:10:51 UTC +00:00], ["description", "Test description"], ["name", "Test topic"], ["updated_at", Fri, 15 Mar 2013 03:10:51 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Started GET "/topics?id=1" for 127.0.0.1 at 2013-03-14 20:10:51 -0700
+Processing by TopicsController#index as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mTopic Load (0.0ms)[0m  [1mSELECT "topics".* FROM "topics" [0m
+Completed 200 OK in 6ms (Views: 4.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (3.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/topics/new" for 127.0.0.1 at 2013-03-14 20:10:51 -0700
+Processing by TopicsController#new as HTML
+  Rendered topics/_form.html.erb (8.0ms)
+Completed 200 OK in 21ms (Views: 20.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started POST "/topics" for 127.0.0.1 at 2013-03-14 20:10:51 -0700
+Processing by TopicsController#create as HTML
+  Parameters: {"topic"=>{"name"=>"", "description"=>""}}
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mTopic Exists (0.0ms)[0m  [1mSELECT 1 AS one FROM "topics" WHERE "topics"."name" = '' LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  Rendered topics/_form.html.erb (3.0ms)
+Completed 200 OK in 10ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSELECT COUNT(*) FROM "topics" [0m
+Started POST "/topics" for 127.0.0.1 at 2013-03-14 20:10:51 -0700
+Processing by TopicsController#create as HTML
+  Parameters: {"topic"=>{"name"=>"", "desription"=>"test"}}
+Completed 500 Internal Server Error in 1ms
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (54.0ms)[0m  [1mbegin transaction[0m
+  Rendered feedbacks/_form.html.erb (105.0ms)
+  Rendered feedbacks/edit.html.erb (185.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+Started GET "/topics" for 127.0.0.1 at 2013-03-19 17:33:48 -0700
+Processing by TopicsController#index as HTML
+  [1m[35mTopic Load (0.0ms)[0m  SELECT "topics".* FROM "topics" 
+Completed 200 OK in 24ms (Views: 18.0ms | ActiveRecord: 2.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Started GET "/topics/new" for 127.0.0.1 at 2013-03-19 17:33:48 -0700
+Processing by TopicsController#new as HTML
+  Rendered topics/_form.html.erb (11.0ms)
+Completed 200 OK in 57ms (Views: 39.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSELECT COUNT(*) FROM "topics" [0m
+Started POST "/topics" for 127.0.0.1 at 2013-03-19 17:33:48 -0700
+Processing by TopicsController#create as HTML
+  Parameters: {"topic"=>{"name"=>"", "desription"=>"test"}}
+Completed 500 Internal Server Error in 1ms
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started POST "/topics" for 127.0.0.1 at 2013-03-19 17:33:48 -0700
+Processing by TopicsController#create as HTML
+  Parameters: {"topic"=>{"name"=>"", "description"=>""}}
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mTopic Exists (1.0ms)[0m  [1mSELECT 1 AS one FROM "topics" WHERE "topics"."name" = '' LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  Rendered topics/_form.html.erb (8.0ms)
+Completed 200 OK in 263ms (Views: 13.0ms | ActiveRecord: 1.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (1.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mTopic Exists (1.0ms)[0m  SELECT 1 AS one FROM "topics" WHERE "topics"."name" = 'Test topic' LIMIT 1
+  [1m[36mSQL (122.0ms)[0m  [1mINSERT INTO "topics" ("created_at", "description", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 20 Mar 2013 00:33:49 UTC +00:00], ["description", "Test description"], ["name", "Test topic"], ["updated_at", Wed, 20 Mar 2013 00:33:49 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Started GET "/topics?id=1" for 127.0.0.1 at 2013-03-19 17:33:49 -0700
+Processing by TopicsController#index as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mTopic Load (0.0ms)[0m  [1mSELECT "topics".* FROM "topics" [0m
+Completed 200 OK in 10ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (3.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/feedbacks" for 127.0.0.1 at 2013-03-19 17:33:49 -0700
+Processing by FeedbacksController#index as HTML
+  [1m[35mFeedback Load (0.0ms)[0m  SELECT "feedbacks".* FROM "feedbacks" 
+Completed 200 OK in 29ms (Views: 27.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  Rendered feedbacks/_form.html.erb (3.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (1.0ms)[0m  begin transaction
+  [1m[36m (1.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (1.0ms)[0m  INSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)  [["author", nil], ["created_at", Wed, 20 Mar 2013 00:33:49 UTC +00:00], ["notes", "MyText"], ["updated_at", Wed, 20 Mar 2013 00:33:49 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SELECT COUNT(*) FROM "feedbacks" 
+Processing by FeedbacksController#destroy as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mFeedback Load (0.0ms)[0m  [1mSELECT "feedbacks".* FROM "feedbacks" WHERE "feedbacks"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (1.0ms)[0m  [1mDELETE FROM "feedbacks" WHERE "feedbacks"."id" = ?[0m  [["id", 1]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/feedbacks
+Completed 302 Found in 5ms (ActiveRecord: 1.0ms)
+  [1m[36m (0.0ms)[0m  [1mSELECT COUNT(*) FROM "feedbacks" [0m
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (2.0ms)[0m  [1mINSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)[0m  [["author", nil], ["created_at", Wed, 20 Mar 2013 00:33:49 UTC +00:00], ["notes", "MyText"], ["updated_at", Wed, 20 Mar 2013 00:33:49 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Processing by FeedbacksController#destroy as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mFeedback Load (0.0ms)[0m  [1mSELECT "feedbacks".* FROM "feedbacks" WHERE "feedbacks"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (1.0ms)[0m  [1mDELETE FROM "feedbacks" WHERE "feedbacks"."id" = ?[0m  [["id", 1]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/feedbacks
+Completed 302 Found in 4ms (ActiveRecord: 1.0ms)
+  [1m[36m (4.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (5.0ms)[0m  INSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)  [["author", nil], ["created_at", Wed, 20 Mar 2013 00:33:49 UTC +00:00], ["notes", "MyText"], ["updated_at", Wed, 20 Mar 2013 00:33:49 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by FeedbacksController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mFeedback Load (0.0ms)[0m  SELECT "feedbacks".* FROM "feedbacks" WHERE "feedbacks"."id" = ? LIMIT 1  [["id", "1"]]
+Completed 200 OK in 19ms (Views: 17.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by FeedbacksController#new as HTML
+Completed 200 OK in 5ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (4.0ms)[0m  INSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)  [["author", nil], ["created_at", Wed, 20 Mar 2013 00:33:49 UTC +00:00], ["notes", "MyText"], ["updated_at", Wed, 20 Mar 2013 00:33:49 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by FeedbacksController#update as HTML
+  Parameters: {"feedback"=>{"notes"=>"MyText"}, "id"=>"1"}
+  [1m[35mFeedback Load (0.0ms)[0m  SELECT "feedbacks".* FROM "feedbacks" WHERE "feedbacks"."id" = ? LIMIT 1  [["id", "1"]]
+Completed 200 OK in 6ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (4.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (5.0ms)[0m  INSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)  [["author", nil], ["created_at", Wed, 20 Mar 2013 00:33:49 UTC +00:00], ["notes", "MyText"], ["updated_at", Wed, 20 Mar 2013 00:33:49 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by FeedbacksController#update as HTML
+  Parameters: {"feedback"=>{"notes"=>"MyText"}, "id"=>"1"}
+  [1m[35mFeedback Load (0.0ms)[0m  SELECT "feedbacks".* FROM "feedbacks" WHERE "feedbacks"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/feedbacks/1
+Completed 302 Found in 17ms (ActiveRecord: 0.0ms)
+  [1m[36m (3.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (2.0ms)[0m  INSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)  [["author", nil], ["created_at", Wed, 20 Mar 2013 00:33:49 UTC +00:00], ["notes", "MyText"], ["updated_at", Wed, 20 Mar 2013 00:33:49 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by FeedbacksController#update as HTML
+  Parameters: {"feedback"=>{"notes"=>"MyText"}, "id"=>"1"}
+  [1m[35mFeedback Load (0.0ms)[0m  SELECT "feedbacks".* FROM "feedbacks" WHERE "feedbacks"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/feedbacks/1
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms)
+  [1m[36m (2.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (1.0ms)[0m  INSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)  [["author", nil], ["created_at", Wed, 20 Mar 2013 00:33:49 UTC +00:00], ["notes", "MyText"], ["updated_at", Wed, 20 Mar 2013 00:33:49 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by FeedbacksController#update as HTML
+  Parameters: {"feedback"=>{"notes"=>"invalid value"}, "id"=>"1"}
+  [1m[35mFeedback Load (0.0ms)[0m  SELECT "feedbacks".* FROM "feedbacks" WHERE "feedbacks"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+Completed 200 OK in 4ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (1.0ms)[0m  INSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)  [["author", nil], ["created_at", Wed, 20 Mar 2013 00:33:49 UTC +00:00], ["notes", "MyText"], ["updated_at", Wed, 20 Mar 2013 00:33:49 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by FeedbacksController#update as HTML
+  Parameters: {"feedback"=>{"notes"=>"invalid value"}, "id"=>"1"}
+  [1m[35mFeedback Load (0.0ms)[0m  SELECT "feedbacks".* FROM "feedbacks" WHERE "feedbacks"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+Completed 200 OK in 4ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (3.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSELECT COUNT(*) FROM "feedbacks" [0m
+Processing by FeedbacksController#create as HTML
+  Parameters: {"feedback"=>{"notes"=>"MyText"}}
+  [1m[35m (1.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (1.0ms)[0m  [1mINSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)[0m  [["author", nil], ["created_at", Wed, 20 Mar 2013 00:33:49 UTC +00:00], ["notes", "MyText"], ["updated_at", Wed, 20 Mar 2013 00:33:49 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/feedbacks/1
+Completed 302 Found in 5ms (ActiveRecord: 2.0ms)
+  [1m[36m (0.0ms)[0m  [1mSELECT COUNT(*) FROM "feedbacks" [0m
+  [1m[35m (2.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by FeedbacksController#create as HTML
+  Parameters: {"feedback"=>{"notes"=>"MyText"}}
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (1.0ms)[0m  [1mINSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)[0m  [["author", nil], ["created_at", Wed, 20 Mar 2013 00:33:49 UTC +00:00], ["notes", "MyText"], ["updated_at", Wed, 20 Mar 2013 00:33:49 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/feedbacks/1
+Completed 302 Found in 5ms (ActiveRecord: 1.0ms)
+  [1m[36m (2.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by FeedbacksController#create as HTML
+  Parameters: {"feedback"=>{"notes"=>"MyText"}}
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (2.0ms)[0m  INSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)  [["author", nil], ["created_at", Wed, 20 Mar 2013 00:33:49 UTC +00:00], ["notes", "MyText"], ["updated_at", Wed, 20 Mar 2013 00:33:49 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/feedbacks/1
+Completed 302 Found in 5ms (ActiveRecord: 2.0ms)
+  [1m[35mFeedback Load (0.0ms)[0m  SELECT "feedbacks".* FROM "feedbacks" ORDER BY "feedbacks"."id" DESC LIMIT 1
+  [1m[36m (2.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by FeedbacksController#create as HTML
+  Parameters: {"feedback"=>{"notes"=>"invalid value"}}
+Completed 200 OK in 2ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by FeedbacksController#create as HTML
+  Parameters: {"feedback"=>{"notes"=>"invalid value"}}
+Completed 200 OK in 3ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (1.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (1.0ms)[0m  INSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)  [["author", nil], ["created_at", Wed, 20 Mar 2013 00:33:49 UTC +00:00], ["notes", "MyText"], ["updated_at", Wed, 20 Mar 2013 00:33:49 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by FeedbacksController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mFeedback Load (1.0ms)[0m  SELECT "feedbacks".* FROM "feedbacks" WHERE "feedbacks"."id" = ? LIMIT 1  [["id", "1"]]
+Completed 200 OK in 4ms (Views: 2.0ms | ActiveRecord: 1.0ms)
+  [1m[36m (2.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (1.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (3.0ms)[0m  INSERT INTO "feedbacks" ("author", "created_at", "notes", "updated_at") VALUES (?, ?, ?, ?)  [["author", nil], ["created_at", Wed, 20 Mar 2013 00:33:49 UTC +00:00], ["notes", "MyText"], ["updated_at", Wed, 20 Mar 2013 00:33:49 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Processing by FeedbacksController#index as HTML
+  [1m[35mFeedback Load (0.0ms)[0m  SELECT "feedbacks".* FROM "feedbacks" 
+Completed 200 OK in 2ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (2.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m

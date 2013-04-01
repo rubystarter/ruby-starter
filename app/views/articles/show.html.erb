@@ -1,0 +1,45 @@
+
+<div class="row">
+
+	<%= render :partial => "/layouts/shared/left_panel_topic", :object => @topics,:locals => {:selectTopicId => @article.topic_id} %>
+
+	<div class="span9" id="content">
+
+	  <h1><%= @article.title %></h1>
+
+		<p> Last Updated: <%= formatted_date(@article.created_at) %> 
+			<% if current_user = @article.user %>
+				<span class="pull-right"><%= link_to 'Edit', edit_article_path(@article) %> </span>
+			<% end %>
+		</p>
+		<p> By: <b><%= current_user.name %></b> </p>
+
+		<p>
+		  <%= @article.content.html_safe %>
+		</p>
+
+		<h3>Feedbacks</h3>
+		<div id="feedbacks" class="well">
+			<% @article.feedbacks.each do |feedback| %>
+				<div class="control-group"  style="padding: 5px 5px 5px 5px;">
+				<div><%= formatted_date(feedback.created_at) %> </div>
+				<div><%= feedback.notes %></div>
+				</div>
+			<% end %>
+		</div>
+		<%= form_for @feedback, :html=>{:class=>"form-horizontal well"}, remote: true, url: article_feedbacks_path(@article) do |f| %>
+		  	<fieldset>    
+		  		<h4>Reply to This Article</h4>
+			    <div>
+			    	<%= f.text_area :notes, :style=>"width: 80%;", :rows=>"5" %>      
+			    </div>
+
+			    <p>
+			      <%= f.submit "Send Feedback", :class=>"btn" %>
+			    </p>
+
+  			</fieldset>  			
+		<% end %>
+
+	</div>
+</div>

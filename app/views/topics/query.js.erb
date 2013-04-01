@@ -1,0 +1,6 @@
+<% if @topic.errors.empty? %>
+  $("#content").html("<%= j(render :partial => '/topics/query', :object => @topic) %>");
+  highlightActiveTopic(<%= @topic.id%>);
+<% else %>
+  alert("there was errors with your topic.");
+<% end %>

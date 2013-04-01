@@ -1,0 +1,35 @@
+<script type="text/javascript">
+       bkLib.onDomLoaded(function() { nicEditors.allTextAreas() });
+</script>
+
+<%= form_for(@article, :html=>{:class=>"form-horizontal well"}) do |f| %>
+  <fieldset>    
+    <div class="control-group info">
+      <label class="control-label" for="selectError">Select a Topic</label>
+      <div class="controls">
+        <%= select_tag "article[topic_id]", options_for_select(Topic.all.collect{|t| [t.name, t.id]}, @article.topic_id) %>
+        <span class="help-inline">Woohoo!</span>
+      </div>
+    </div>
+
+    <div class="control-group">
+      <%= f.label :title, :class=>"control-label", :for=>"title" %>
+      <div class="controls">
+        <%= f.text_field :title, :id=>"title", :class=>"input-xlarge" %>
+      </div>
+    </div>
+
+    <div class="control-group">
+      <%= f.label "Content (HTML allowed)", :class=>"control-label", :for=>"article_content" %>
+      <div class="controls">
+        <%= f.text_area :content, :style=>"width: 80%;", :rows=>"15" %>      
+      </div>
+    </div>
+
+    <div class="form-actions">
+      <%= f.submit "Post Article", :class=>"btn btn-primary" %>
+      <button type="reset" class="btn">Cancel</button>
+    </div>
+
+  </fieldset>  
+<% end %>

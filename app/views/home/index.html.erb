@@ -1,0 +1,11 @@
+<div class="row">
+	<%= render :partial => "/layouts/shared/left_panel_topic", :object => @topics,:locals => {:selectTopicId => 0} %>
+
+	<div class="span9" id="content"> 
+		<h3>Recent Articles</h3>	
+		<section id="recentArticles">
+		<%= render :partial => "/articles/article", :locals => {:searchArticles => @recentArticles} %>
+		</section>
+	</div>
+</div>
+

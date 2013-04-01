@@ -1,0 +1,16 @@
+
+<div class="span3">
+	<h3>Topics</h3>	
+	<div class="well" style="padding: 4px 0;">
+    	<ul class="nav nav-list" id="listTopic">
+			<% @topics.each do |topic| %>
+				<% if selectTopicId == topic.id %>
+				<li id="lt<%= topic.id %>" class="active"><%= link_to topic.name, query_topic_path(topic), remote: true %></li>
+				<% else %>
+				<li id="lt<%= topic.id %>"><%= link_to topic.name, query_topic_path(topic), remote: true %></li>
+				<% end %>
+			<% end %>
+		</ul>      	
+  	</div>
+</div>
+

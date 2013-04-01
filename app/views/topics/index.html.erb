@@ -1,0 +1,54 @@
+<h1>Topics Management</h1>
+
+<div class="pull-right">
+<%= link_to 'New Topic', new_topic_path %>
+</div>
+
+<table id="topics" class="table table-bordered table-striped table-hover">
+    <thead>
+        <tr>
+            <th>Order #</th>          
+            <th>Topic</th>
+            <th>Description</th>
+            <th>Article #</th>
+
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <% @topics.each do |topic| %>
+            <tr>
+                <td><%= topic.id %></td>
+                <td><%= topic.name %></td>
+                <td><%= sanitize(topic.description, :tags=>[])[0..100] %></td>
+                <td>0</td>
+                <td><%= link_to 'Show', topic %></td>
+                <td><%= link_to 'Edit', edit_topic_path(topic) %></td>
+                <td><%= link_to 'Delete', topic, method: :delete, data: { confirm: 'Are you sure?' } %></td>                
+            </tr>
+        <% end %>        
+
+    </tbody>
+</table>
+
+<script type="text/javascript">
+$('#topics').dataTable({
+  "sDom": "<'row'<'span6'l><'span6'f>r>t<'row'<'span6'i><'span6'p>>",
+  "sPaginationType": "bootstrap",
+        "bPaginate": false,
+        "bLengthChange": false,
+        "bSort": false,
+        "bFilter": false,
+        "bAutoWidth": true,
+        "oLanguage": {
+            "sZeroRecords": "No Article Found",
+            "sInfo": "Showing _START_ to _END_ of _TOTAL_ articles",
+            "sInfoEmpty": "",
+        }          
+}); 
+</script>
+
+
+

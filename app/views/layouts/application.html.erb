@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="Ruby on Rails topics and articles.">
+	<meta name="author" content="Lewis Liu">
+
+	<title>Ruby on Rails for Starters</title>
+
+	<%= stylesheet_link_tag    "application", :media => "all" %>
+	<%= javascript_include_tag "application" %>
+	<%= csrf_meta_tags %>
+
+	<%= javascript_include_tag 'nicEdit' -%>  
+</head>
+
+<body class="preview" id="top" data-spy="scroll" data-target=".subnav" data-offset="40">
+	<%= render "/layouts/shared/header_bar" %>
+
+	<div class="container" id="middle">
+		<%= yield %>
+		
+		<% if notice %>
+			<div class="alert alert-success"><%= notice %></div>
+		<% end %>
+		
+		<% if alert %>
+			<div class="alert alert-info"><%= alert %></div>
+		<% end %>
+					
+		<%= render "/layouts/shared/footer" %>
+	</div>
+</body>
+</html>

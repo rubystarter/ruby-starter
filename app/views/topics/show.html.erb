@@ -1,0 +1,23 @@
+<div class="row">
+	<%= render :partial => "/layouts/shared/left_panel_topic", :object => @topics, :locals => {:selectTopicId => @topic.id} %>
+
+	<div class="span9" id="content"> 
+
+		<p>
+		  <b>Name:</b>
+		  <%= @topic.name %>
+		</p>
+
+		<p>
+		  <b>Description:</b>
+		  <%= @topic.description %>
+		</p>
+
+		<h3>Articles</h3>	
+		<section id="articleSection">
+		<%= render :partial => "/articles/article", :locals => {:searchArticles => @topic.articles.all} %>
+		</section>
+	</div>
+</div>
+
+

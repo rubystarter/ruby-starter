@@ -1,0 +1,11 @@
+<% if @exception.empty? %>
+  $("#content").html("<%= j(render :partial => '/articles/search', :object => @articles) %>");
+
+	$('.datatable').dataTable({
+	  "sDom": "<'row'<'span6'l><'span6'f>r>t<'row'<'span6'i><'span6'p>>",
+	  "sPaginationType": "bootstrap"
+	});
+  
+<% else %>
+  alert("there was errors with your search.");
+<% end %>
