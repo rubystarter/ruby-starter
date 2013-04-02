@@ -22,6 +22,11 @@ module ArticlesHelper
   end     
 
   def get_article_average(id)
-  	Vote.where("article_id = ?", id).average("rating")
+  	average = Vote.where("article_id = ?", id).average("rating")
+  	if (average.nil?)
+  		""
+  	else
+  		"%0.2f" % average
+  	end
   end  
 end

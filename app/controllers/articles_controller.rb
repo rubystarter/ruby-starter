@@ -167,6 +167,11 @@ class ArticlesController < ApplicationController
 
   def get_average(article)
     @average = Vote.where("article_id = ?", article.id).average("rating")
+    if (@average.nil?)
+      @average = ""
+    else
+      @average = "%0.2f" % @average
+    end
   end
 
   def views_increase(article)
