@@ -8,26 +8,28 @@
 	  <h1><%= @article.title %></h1>
 
 		<p> Last Updated: <%= formatted_date(@article.created_at) %> 
-			<% if current_user = @article.user %>
+			<% if user_signed_in? && current_user.id == @article.user_id %>
 				<span class="pull-right"><%= link_to 'Edit', edit_article_path(@article) %> </span>
 			<% end %>
 		</p>
-		<p> By: <b><%= current_user.name %></b> </p>
+		<p> By: <b><%= get_user_name(@article.user_id) %></b> </p>
 		<p>Current Rating (1 to 5): <b><span id="current_rating"><%= @average.to_s() %> </span></b></p>
 
 		<p>
 		  <%= @article.content.html_safe %>
 		</p>
 
-		<%= form_for @vote, :html=>{:class=>"well"}, remote: true, url: vote_article_path(@article) do |f| %>
-			    <div>
-			    	Give your rating: <%= radio_button_tag :rating, '1' %> 1
-			    	<%= radio_button_tag :rating, '2' %> 2
-			    	<%= radio_button_tag :rating, '3' %> 3
-			    	<%= radio_button_tag :rating, '4' %> 4
-			    	<%= radio_button_tag :rating, '5' %> 5
-			      	<%= f.submit "Rating", :class=>"btn" %>
-			    </div>
+		<% if user_signed_in? %>
+			<%= form_for @vote, :html=>{:class=>"well"}, remote: true, url: vote_article_path(@article) do |f| %>
+				    <div>
+				    	Give your rating: <%= radio_button_tag :rating, '1' %> 1
+				    	<%= radio_button_tag :rating, '2' %> 2
+				    	<%= radio_button_tag :rating, '3' %> 3
+				    	<%= radio_button_tag :rating, '4' %> 4
+				    	<%= radio_button_tag :rating, '5' %> 5
+				      	<%= f.submit "Rating", :class=>"btn" %>
+				    </div>
+			<% end %>
 		<% end %>
 
 		<h3>Feedbacks</h3>
@@ -39,6 +41,8 @@
 				</div>
 			<% end %>
 		</div>
+
+		<% if user_signed_in? %>		
 		<%= form_for @feedback, :html=>{:class=>"form-horizontal well"}, remote: true, url: article_feedbacks_path(@article) do |f| %>
 		  	<fieldset>    
 		  		<h4>Reply to This Article</h4>
@@ -51,6 +55,7 @@
 			    </p>
 
   			</fieldset>  			
+		<% end %>
 		<% end %>
 
 	</div>

@@ -20,12 +20,18 @@ class ArticlesController < ApplicationController
 
     @topics = Topic.all()
 
-    find_vote(@article)
+    if user_signed_in?
+      find_vote(@article)
+    end
 
     @average = get_average(@article)
 
     @feedback = Feedback.new
     
+    @article.views = views_increase(@article)
+
+    @article.save
+
     respond_to do |format|
       format.html # show.html.erb
       format.json { render json: @article }
@@ -53,14 +59,14 @@ class ArticlesController < ApplicationController
   def create
     @article = Article.new(params[:article])
 
-    @article.user = current_user
+    @article.user_id = current_user.user_id
 
 
     respond_to do |format|
       if @article.save
 
         #QuestionsMailer.comment_notfication(current_user, @article).deliver
-        QuestionsMailer.delay.comment_notfication(current_user, @article)
+        #QuestionsMailer.delay.comment_notfication(current_user, @article)
 
         format.html { redirect_to @article, notice: 'Article was successfully created.' }
         format.json { render json: @article, status: :created, location: @article }
@@ -93,10 +99,11 @@ class ArticlesController < ApplicationController
     if (params[:rating].length>0)
 
         found = find_vote(@article)
-        found = false
+
         if (found)
+          #Vote.where("id=?", @vote.id).update_all("rating=?", params[:rating].to_i)
           @vote.rating = params[:rating].to_i
-          @vote.update
+          @vote.save          
         else
           @vote.user_id = current_user.id
           @vote.article_id = @article.id
@@ -136,7 +143,7 @@ class ArticlesController < ApplicationController
     @article.destroy
 
     respond_to do |format|
-      format.html { redirect_to articles_url }
+      format.html { redirect_to root_url }
       format.json { head :no_content }
     end
   end
@@ -148,7 +155,7 @@ class ArticlesController < ApplicationController
   end
 
   def find_vote(article)
-    yourVote  = Vote.where("article_id = ? and user_id = ?", article.id, article.user_id)
+    yourVote  = Vote.where("article_id = ? and user_id = ?", article.id, current_user.id)
     if (yourVote.length>0)
       @vote = yourVote.first
       true
@@ -161,5 +168,13 @@ class ArticlesController < ApplicationController
   def get_average(article)
     @average = Vote.where("article_id = ?", article.id).average("rating")
   end
+
+  def views_increase(article)
+      if (article.views.nil?)
+        views = 1
+      else
+        views = article.views + 1
+      end
+  end 
 
 end

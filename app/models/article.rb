@@ -1,5 +1,5 @@
 class Article < ActiveRecord::Base
-  attr_accessible :content, :title, :topic_id, :user_id
+  attr_accessible :content, :title, :topic_id, :user_id, :views
 
   validates :title, presence:true, uniqueness:true
   validates :content, presence:true
@@ -29,7 +29,8 @@ class Article < ActiveRecord::Base
     if (yourVote.length>0)
     	@rating = yourVote.rating
     else
-    	@rating = 0
+    	@rating = ""
     end
   end    
+
 end

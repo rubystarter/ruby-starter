@@ -5,16 +5,35 @@
     <thead>
         <tr>
             <th>Publish Date</th>
-            <th>Title</th>
-            <th>Brief</th>
+            <th>Article</th>
+            <th>Views #</th>
+            <th>Rating #</th>
+            <% if user_signed_in? %>
+                <th>Actions</th>
+            <% end %>
         </tr>
     </thead>
     <tbody>
         <% searchArticles.each do |article| %>
             <tr>
-                <td><%= formatted_date_time(article.created_at) %></td>
-                <td><%= link_to article.title, article_path(article) %></td>
-                <td><%= sanitize(article.content, :tags=>[])[0..50] %></td>
+                <td>
+                    <p><%= formatted_date_short(article.created_at) %></p>
+                    <p><%= get_user_name(article.user_id) %></p>
+                </td>
+                <td>
+                    <p><%= link_to article.title, article_path(article) %></p>
+                    <p><%= sanitize(article.content, :tags=>[])[0..100] %></p>
+                </td>
+                <td><%= article.views %></td>
+                <td><%= article.rating %></td>
+                <% if user_signed_in? %>
+                <td>
+                    <% if (user_signed_in? && (current_user.id == article.user_id || is_admin_user?)) %>
+                    <p><%= link_to "Edit", edit_article_path(article) %></p>
+                    <p><%= link_to "Delete", article, method: :delete, data: { confirm: 'Are you sure?' } %></p>                    
+                    <% end %>
+                </td>     
+                <% end %>           
             </tr>
         <% end %>        
 
