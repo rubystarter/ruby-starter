@@ -14,7 +14,7 @@ class User < ActiveRecord::Base
   has_many :votes
   has_many :voted_articles, through: :votes, source: :article
 
-  def has_votes?(article)
+  def has_voted?(article)
     voted_articles.include?(article)
   end
 

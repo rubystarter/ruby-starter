@@ -2,7 +2,7 @@ class ArticlesController < ApplicationController
   # GET /articles
   # GET /articles.json
   before_filter :authenticate_user!, except: [:show, :index, :search]
-  before_filter :find_article, only: [:show, :edit, :update, :destroy]
+  before_filter :find_article, only: [:show, :edit, :update, :destroy, :vote]
 
   def index
     @articles = Article.all
@@ -19,6 +19,10 @@ class ArticlesController < ApplicationController
     @article = Article.find(params[:id])
 
     @topics = Topic.all()
+
+    find_vote(@article)
+
+    @average = get_average(@article)
 
     @feedback = Feedback.new
     
@@ -84,6 +88,31 @@ class ArticlesController < ApplicationController
     end
   end
 
+  # POST /articles/1/vote
+  def vote
+    if (params[:rating].length>0)
+
+        found = find_vote(@article)
+        found = false
+        if (found)
+          @vote.rating = params[:rating].to_i
+          @vote.update
+        else
+          @vote.user_id = current_user.id
+          @vote.article_id = @article.id
+          @vote.rating = params[:rating].to_i
+
+          @vote.save
+        end
+
+        @average = get_average(@article)
+
+        respond_to do |format|
+          format.js
+        end
+    end    
+  end
+
   # PUT /articles/1
   # PUT /articles/1.json
   def update
@@ -117,4 +146,20 @@ class ArticlesController < ApplicationController
   def find_article
     @article = Article.find(params[:article_id] || params[:id])
   end
+
+  def find_vote(article)
+    yourVote  = Vote.where("article_id = ? and user_id = ?", article.id, article.user_id)
+    if (yourVote.length>0)
+      @vote = yourVote.first
+      true
+    else
+      @vote = Vote.new
+      false
+    end
+  end  
+
+  def get_average(article)
+    @average = Vote.where("article_id = ?", article.id).average("rating")
+  end
+
 end

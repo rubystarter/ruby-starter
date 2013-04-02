@@ -13,10 +13,22 @@
 			<% end %>
 		</p>
 		<p> By: <b><%= current_user.name %></b> </p>
+		<p>Current Rating (1 to 5): <b><span id="current_rating"><%= @average.to_s() %> </span></b></p>
 
 		<p>
 		  <%= @article.content.html_safe %>
 		</p>
+
+		<%= form_for @vote, :html=>{:class=>"well"}, remote: true, url: vote_article_path(@article) do |f| %>
+			    <div>
+			    	Give your rating: <%= radio_button_tag :rating, '1' %> 1
+			    	<%= radio_button_tag :rating, '2' %> 2
+			    	<%= radio_button_tag :rating, '3' %> 3
+			    	<%= radio_button_tag :rating, '4' %> 4
+			    	<%= radio_button_tag :rating, '5' %> 5
+			      	<%= f.submit "Rating", :class=>"btn" %>
+			    </div>
+		<% end %>
 
 		<h3>Feedbacks</h3>
 		<div id="feedbacks" class="well">

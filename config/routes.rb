@@ -23,6 +23,12 @@ RubyKb::Application.routes.draw do
       post 'search'
     end
   end
+
+  resources :articles do
+    member do
+      post 'vote'
+    end
+  end
   
   resources :topics, only: [:show, :edit] do
     resources :articles
