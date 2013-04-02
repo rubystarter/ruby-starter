@@ -11,4 +11,17 @@ module ArticlesHelper
       ""
     end
   end	
+
+  def find_rating(article)
+    yourVote = Vote.where("article_id = ? and user_id = ?", article.id, article.user_id)
+    if (yourVote.length>0)
+    	@rating = yourVote.rating
+    else
+    	@rating = ""
+    end
+  end     
+
+  def get_article_average(id)
+  	Vote.where("article_id = ?", id).average("rating")
+  end  
 end

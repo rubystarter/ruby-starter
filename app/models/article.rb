@@ -16,21 +16,7 @@ class Article < ActiveRecord::Base
   	get_average
   end
 
-  def rating
-  	find_rating
-  end
-
   def get_average
   	Vote.where("article_id = ?", :id).average("rating")
   end
-
-  def find_rating
-    yourVote = Vote.where("article_id = ? and user_id = ?", :id, :user_id)
-    if (yourVote.length>0)
-    	@rating = yourVote.rating
-    else
-    	@rating = ""
-    end
-  end    
-
 end

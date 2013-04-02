@@ -25,7 +25,7 @@
                     <p><%= sanitize(article.content, :tags=>[])[0..100] %></p>
                 </td>
                 <td><%= article.views %></td>
-                <td><%= article.rating %></td>
+                <td><%= get_article_average(article.id) %></td>
                 <% if user_signed_in? %>
                 <td>
                     <% if (user_signed_in? && (current_user.id == article.user_id || is_admin_user?)) %>
