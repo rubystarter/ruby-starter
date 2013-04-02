@@ -12,29 +12,24 @@ class Article < ActiveRecord::Base
 
   has_many :votes
   
-  attr_accessor :average, :rating
-
-  def initialize
-  end
-
   def average_rating
-  	@average
+  	get_average
   end
 
   def rating
-  	@rating
+  	find_rating
   end
 
   def get_average
-  	@average = Vote.where("article_id = ?", :id).average("rating")
+  	Vote.where("article_id = ?", :id).average("rating")
   end
 
   def find_rating
-    yourVote = Vote.where("article_id = ? and user_id = ?", :id, :user_id).first
-    if (yourVote.nil?)
-    	@rating = 0
-    else
+    yourVote = Vote.where("article_id = ? and user_id = ?", :id, :user_id)
+    if (yourVote.length>0)
     	@rating = yourVote.rating
+    else
+    	@rating = 0
     end
   end    
 end

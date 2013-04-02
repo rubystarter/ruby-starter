@@ -39,7 +39,7 @@
 			          	<% end %>
 
 						<li class="disabled">
-							<a>Welcome <%= current_user.name %></a>
+							<%= link_to "Welcome " + current_user.name, edit_user_path(current_user) %>
 						</li>
 						<li>
 							<%= link_to "Sign out", destroy_user_session_path, method: :delete %>

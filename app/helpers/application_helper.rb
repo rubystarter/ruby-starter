@@ -12,6 +12,10 @@ module ApplicationHelper
 	end		
 
 	def is_admin_user?
-		true
+		if user_signed_in? && current_user.user_type==10
+			true
+		else
+			false
+		end
 	end
 end
