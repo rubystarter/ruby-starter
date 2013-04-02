@@ -1,4 +1,6 @@
 class ArticlesController < ApplicationController
+  include ArticlesHelper
+
   # GET /articles
   # GET /articles.json
   before_filter :authenticate_user!, except: [:show, :index, :search]
@@ -24,7 +26,7 @@ class ArticlesController < ApplicationController
       find_vote(@article)
     end
 
-    @average = get_average(@article)
+    @average = get_article_average(@article)
 
     @feedback = Feedback.new
     
@@ -112,7 +114,7 @@ class ArticlesController < ApplicationController
           @vote.save
         end
 
-        @average = get_average(@article)
+        @average = get_article_average(@article)
 
         respond_to do |format|
           format.js
@@ -164,22 +166,4 @@ class ArticlesController < ApplicationController
       false
     end
   end  
-
-  def get_average(article)
-    @average = Vote.where("article_id = ?", article.id).average("rating")
-    if (@average.nil?)
-      @average = ""
-    else
-      @average = "%0.2f" % @average
-    end
-  end
-
-  def views_increase(article)
-      if (article.views.nil?)
-        views = 1
-      else
-        views = article.views + 1
-      end
-  end 
-
 end

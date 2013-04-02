@@ -29,4 +29,13 @@ module ArticlesHelper
   		"%0.2f" % average
   	end
   end  
+
+  def views_increase(article)
+      if (article.views.nil?)
+        views = 1
+      else
+        views = article.views + 1
+      end
+  end 
+    
 end
